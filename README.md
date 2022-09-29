@@ -10,9 +10,10 @@
 - JGProgressHUD
 - MVC
 - Data Binding
+- Memory Leak
 - OOP
 - ViewLifeCycle
-- Memory Leak
+
 the link for screenRecords : https://drive.google.com/drive/u/1/folders/1XJc5voB-bAGnLvr12Vcqt3rQsSpUiQL6
 
 ## Login screen
