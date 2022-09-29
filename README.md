@@ -1,4 +1,20 @@
 # MyMessenger
+## The technologies that I used in that project
+- FirebaseAuth
+- FirebaseStorage
+- FirebaseRealtimeDatabase
+- FirebaseAnalytics
+- SDWebImage
+- FBSDKLoginKit
+- MessageKit
+- JGProgressHUD
+- MVC
+- Data Binding
+- OOP
+- ViewLifeCycle
+
+
+
 ## Login screen
 ![loginScreen](https://user-images.githubusercontent.com/72051780/192992301-9654fb9e-2088-42cf-9a36-b003d829bf98.png)
 ## Register Screen
